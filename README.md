@@ -6,7 +6,7 @@
 
 ## API
 
-Provides two Network Models for searching Reddit, and finding GIFs in a subreddit.
+Provides two Network Models for searching reddit, and finding GIFs in a subreddit.
 
 ## Usage
 
